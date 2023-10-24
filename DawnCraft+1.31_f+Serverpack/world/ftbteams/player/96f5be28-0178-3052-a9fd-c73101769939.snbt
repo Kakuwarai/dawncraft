@@ -1,0 +1,15 @@
+{
+	id: "96f5be28-0178-3052-a9fd-c73101769939"
+	type: "player"
+	player_name: "Kakuwarai"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Kakuwarai"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFD2"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

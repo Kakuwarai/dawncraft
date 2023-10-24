@@ -1,0 +1,25 @@
+{
+	id: "9142f087-733a-44a3-9436-19676f0cd88f"
+	type: "party"
+	owner: "3682251b-cb90-3fe2-beb8-038671751b5c"
+	ranks: {
+		5879f92b-86a3-32cd-a73e-749cc6e26dfd: "member"
+		96f5be28-0178-3052-a9fd-c73101769939: "member"
+		3682251b-cb90-3fe2-beb8-038671751b5c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Manekii's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7B59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1697990079817L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Manekii\"}]}" }
+		{ from: "3682251b-cb90-3fe2-beb8-038671751b5c", date: 1697990079818L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Kakuwarai\"}]}" }
+		{ from: "3682251b-cb90-3fe2-beb8-038671751b5c", date: 1697990079819L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"vendettaaaaaaa\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1697990088614L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Kakuwarai\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1697990105806L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"vendettaaaaaaa\"}]}" }
+	]
+	extra: { }
+}

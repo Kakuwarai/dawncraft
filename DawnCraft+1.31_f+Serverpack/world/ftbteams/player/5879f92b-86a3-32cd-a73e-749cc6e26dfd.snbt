@@ -1,0 +1,15 @@
+{
+	id: "5879f92b-86a3-32cd-a73e-749cc6e26dfd"
+	type: "player"
+	player_name: "vendettaaaaaaa"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "vendettaaaaaaa"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59A9"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

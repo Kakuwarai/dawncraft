@@ -1,0 +1,15 @@
+{
+	id: "3682251b-cb90-3fe2-beb8-038671751b5c"
+	type: "player"
+	player_name: "Manekii"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Manekii"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59CA"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
