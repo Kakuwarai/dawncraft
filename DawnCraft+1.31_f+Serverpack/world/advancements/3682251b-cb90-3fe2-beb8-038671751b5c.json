@@ -5,9 +5,15 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2023-10-24 16:14:00 +0800"
+    },
+    "done": true
+  },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2023-10-23 21:28:03 +0800"
+      "log_spam_fixer": "2023-10-24 16:33:15 +0800"
     },
     "done": false
   },
@@ -65,6 +71,12 @@
     },
     "done": true
   },
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_dark_forest": "2023-10-24 13:39:51 +0800"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2023-10-22 23:23:39 +0800"
@@ -109,7 +121,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-10-23 21:28:03 +0800"
+      "log_spam_fixer": "2023-10-24 16:33:15 +0800"
     },
     "done": false
   },
@@ -124,6 +136,14 @@
       "has_the_recipe": "2023-10-22 23:23:39 +0800"
     },
     "done": true
+  },
+  "goblinsanddungeons:goblinsanddungeons/goblin_slayer": {
+    "criteria": {
+      "goblo": "2023-10-24 16:08:28 +0800",
+      "garch": "2023-10-24 16:06:44 +0800",
+      "gob": "2023-10-24 16:16:14 +0800"
+    },
+    "done": false
   },
   "mowziesmobs:root": {
     "criteria": {
@@ -211,9 +231,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2023-10-24 16:05:02 +0800",
       "cooked_mutton": "2023-10-23 16:15:50 +0800",
       "cooked_beef": "2023-10-23 18:23:00 +0800",
       "apple": "2023-10-22 23:35:05 +0800",
+      "potato": "2023-10-24 15:38:02 +0800",
       "pumpkin_pie": "2023-10-23 18:24:55 +0800",
       "bread": "2023-10-22 23:47:42 +0800",
       "carrot": "2023-10-23 20:10:53 +0800"
@@ -229,6 +251,12 @@
   "comforts:hammock_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2023-10-22 23:23:39 +0800"
+    },
+    "done": true
+  },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2023-10-24 13:54:22 +0800"
     },
     "done": true
   },
@@ -271,6 +299,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2023-10-23 15:27:20 +0800"
+    },
+    "done": true
+  },
+  "simple_mobs:goblin_king_quest_complete": {
+    "criteria": {
+      "goblin_king_quest_complete": "2023-10-24 16:28:35 +0800"
     },
     "done": true
   },
@@ -421,7 +455,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2023-10-23 21:28:03 +0800"
+      "log_spam_fixer": "2023-10-24 16:33:15 +0800"
     },
     "done": false
   },
@@ -469,7 +503,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2023-10-23 21:28:03 +0800"
+      "log_spam_fixer": "2023-10-24 16:33:15 +0800"
     },
     "done": false
   },
@@ -481,9 +515,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2023-10-24 13:38:09 +0800",
+      "minecraft:birch_forest": "2023-10-24 13:39:35 +0800",
+      "minecraft:dark_forest": "2023-10-24 13:39:51 +0800",
       "minecraft:river": "2023-10-22 23:27:27 +0800",
       "minecraft:dripstone_caves": "2023-10-23 15:18:16 +0800",
+      "minecraft:swamp": "2023-10-24 13:42:21 +0800",
       "minecraft:forest": "2023-10-22 23:23:39 +0800",
+      "minecraft:old_growth_spruce_taiga": "2023-10-24 13:37:35 +0800",
+      "minecraft:old_growth_birch_forest": "2023-10-24 13:39:33 +0800",
       "minecraft:meadow": "2023-10-22 23:32:42 +0800",
       "minecraft:plains": "2023-10-23 00:07:28 +0800"
     },
@@ -563,13 +603,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-10-23 21:28:03 +0800"
+      "log_spam_fixer": "2023-10-24 16:33:15 +0800"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2023-10-23 21:28:03 +0800"
+      "log_spam_fixer": "2023-10-24 16:33:15 +0800"
     },
     "done": false
   },
@@ -642,7 +682,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2023-10-23 21:28:03 +0800"
+      "log_spam_fixer": "2023-10-24 16:33:15 +0800"
     },
     "done": false
   },
@@ -654,7 +694,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2023-10-23 21:28:03 +0800"
+      "log_spam_fixer": "2023-10-24 16:33:15 +0800"
     },
     "done": false
   },
@@ -662,6 +702,7 @@
     "criteria": {
       "minecraft:pillager": "2023-10-23 15:50:55 +0800",
       "minecraft:skeleton": "2023-10-23 15:57:01 +0800",
+      "minecraft:vindicator": "2023-10-24 14:32:47 +0800",
       "minecraft:witch": "2023-10-23 16:09:36 +0800",
       "minecraft:silverfish": "2023-10-22 23:50:41 +0800",
       "minecraft:zombie": "2023-10-23 10:03:02 +0800",
@@ -671,7 +712,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2023-10-23 21:28:03 +0800"
+      "log_spam_fixer": "2023-10-24 16:33:15 +0800"
     },
     "done": false
   },
@@ -783,6 +824,12 @@
     },
     "done": true
   },
+  "ba_bt:battletowers/land_tower_found": {
+    "criteria": {
+      "Find Land Tower": "2023-10-24 15:57:54 +0800"
+    },
+    "done": true
+  },
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2023-10-22 23:23:39 +0800"
@@ -846,7 +893,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2023-10-23 21:28:03 +0800"
+      "log_spam_fixer": "2023-10-24 16:33:15 +0800"
     },
     "done": false
   },
