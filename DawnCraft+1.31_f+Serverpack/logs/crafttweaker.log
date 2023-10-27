@@ -1,153 +1,153 @@
-[14:20:12.179][INFO]: [JeiTweaker] REI identified
-[14:20:12.185][INFO]: Successfully identified and loaded plugin jeitweaker:default
-[14:20:12.217][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
-[14:20:12.232][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[14:20:14.069][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
-[14:20:14.072][INFO]: - 'armoreablemobs' at version '1.0.5'
-[14:20:14.072][INFO]: - 'crafttweaker' at version '9.1.207'
-[14:20:14.072][INFO]: - 'farmersdelight' at version '1.18.2-1.2.3'
-[14:20:14.072][INFO]: - 'gamestages' at version '8.1.3'
-[14:20:14.072][INFO]: - 'jeitweaker' at version '3.0.0.9'
-[14:20:14.073][INFO]: - 'recipestages' at version '3.0.0.10'
-[14:20:14.073][INFO]: - 'zensummoning' at version '1.3.8'
-[14:20:26.103][INFO]: Started loading scripts for loader 'initialize'
-[14:20:26.656][INFO]: Compiling and executing scripts
-[14:20:26.717][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:20:26.865][INFO]: Execution for loader 'initialize' completed successfully
-[14:20:39.144][INFO]: Started loading scripts for loader 'tags'
-[14:20:39.159][INFO]: Compiling and executing scripts
-[14:20:39.176][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[14:20:39.192][INFO]: Execution for loader 'tags' completed successfully
-[14:20:48.019][INFO]: Started loading scripts for loader 'crafttweaker'
-[14:20:48.052][INFO]: Compiling and executing scripts
-[14:20:48.699][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[14:20:48.709][INFO]: Loading file 'main.zs' with priority 0
-[14:20:48.795][INFO]: Registered new ArmorGroup for entity: simple_mobs:knight under the name: MaceArmorGroup
-[14:20:48.796][INFO]: Registered new ArmorGroup for entity: simple_mobs:knight_2 under the name: SwordArmorGroup
-[14:20:48.796][INFO]: Registered new ArmorGroup for entity: simple_mobs:knight_3 under the name: SpearArmorGroup
-[14:20:48.796][INFO]: Registered new ArmorGroup for entity: simple_mobs:samurai_1 under the name: Samurai1ArmorGroup
-[14:20:48.796][INFO]: Registered new ArmorGroup for entity: simple_mobs:samurai_2 under the name: Samurai2ArmorGroup
-[14:20:48.796][INFO]: Registered new ArmorGroup for entity: simple_mobs:ninja under the name: NinjaArmorGroup
-[14:20:48.796][INFO]: Registered new ArmorGroup for entity: simple_mobs:samurai_4 under the name: Samurai4ArmorGroup
-[14:20:48.796][INFO]: Registered new ArmorGroup for entity: difficultraids:assassin_illager under the name: AssassinGroup
-[14:20:48.796][INFO]: Registered new ArmorGroup for entity: difficultraids:dart_illager under the name: DartGroup
-[14:20:48.796][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_1 under the name: BarbarianGroup1
-[14:20:48.796][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_2 under the name: BarbarianGroup2
-[14:20:48.796][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_3 under the name: BarbarianGroup3
-[14:20:48.796][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_4 under the name: BarbarianGroup4
-[14:20:48.796][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_1 under the name: BarbarianGroup5
-[14:20:48.796][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_2 under the name: BarbarianGroup6
-[14:20:48.796][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_3 under the name: BarbarianGroup7
-[14:20:48.796][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_4 under the name: BarbarianGroup8
-[14:20:48.796][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_1 under the name: BarbarianGroup9
-[14:20:48.796][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_2 under the name: BarbarianGroup10
-[14:20:48.796][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_3 under the name: BarbarianGroup11
-[14:20:48.796][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_4 under the name: BarbarianGroup12
-[14:20:48.802][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.armorer_scroll' that outputs: '<item:quest_giver:trading_contract_armorer>'
-[14:20:48.803][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.beekeeper_scroll' that outputs: '<item:quest_giver:trading_contract_beekeeper>'
-[14:20:48.804][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.butcher_scroll' that outputs: '<item:quest_giver:trading_contract_butcher>'
-[14:20:48.804][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.cartographer_scroll' that outputs: '<item:quest_giver:trading_contract_cartographer>'
-[14:20:48.805][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.cleric_scroll' that outputs: '<item:quest_giver:trading_contract_cleric>'
-[14:20:48.805][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.enderian_scroll' that outputs: '<item:quest_giver:trading_contract_enderian>'
-[14:20:48.806][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.engineer_scroll' that outputs: '<item:quest_giver:trading_contract_engineer>'
-[14:20:48.806][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.farmer_scroll' that outputs: '<item:quest_giver:trading_contract_farmer>'
-[14:20:48.807][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.fisherman_scroll' that outputs: '<item:quest_giver:trading_contract_fisherman>'
-[14:20:48.807][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.fletcher_scroll' that outputs: '<item:quest_giver:trading_contract_fletcher>'
-[14:20:48.807][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.florist_scroll' that outputs: '<item:quest_giver:trading_contract_florist>'
-[14:20:48.808][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.hunter_scroll' that outputs: '<item:quest_giver:trading_contract_hunter>'
-[14:20:48.808][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.leatherworker_scroll' that outputs: '<item:quest_giver:trading_contract_leatherworker>'
-[14:20:48.809][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.librarian_scroll' that outputs: '<item:quest_giver:trading_contract_librarian>'
-[14:20:48.809][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.mason_scroll' that outputs: '<item:quest_giver:trading_contract_mason>'
-[14:20:48.810][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.miner_scroll' that outputs: '<item:quest_giver:trading_contract_miner>'
-[14:20:48.811][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.netherian_scroll' that outputs: '<item:quest_giver:trading_contract_netherian>'
-[14:20:48.811][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.oceanographer_scroll' that outputs: '<item:quest_giver:trading_contract_oceanographer>'
-[14:20:48.812][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.shepherd_scroll' that outputs: '<item:quest_giver:trading_contract_shepherd>'
-[14:20:48.812][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.toolsmith_scroll' that outputs: '<item:quest_giver:trading_contract_toolsmith>'
-[14:20:48.813][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.weaponsmith_scroll' that outputs: '<item:quest_giver:trading_contract_weaponsmith>'
-[14:20:48.813][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.woodworker_scroll' that outputs: '<item:quest_giver:trading_contract_woodworker>'
-[14:20:48.815][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@de491f4" to "StoneCutter"
-[14:20:48.821][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@2815d009" to "AdvancedSmelting"
-[14:20:48.825][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@c3fe7e15" to "AdvancedSmelting"
-[14:20:48.831][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@1ef6d91e" to "AdvancedSmelting"
-[14:20:48.835][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@efdfe88f" to "AdvancedSmelting"
-[14:20:48.842][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:minecraft.strings' that outputs: '<item:minecraft:string> * 4'
-[14:20:48.842][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:dannys_expansion.strange_alloy_andesite' that outputs: '<item:create:andesite_alloy> * 4'
-[14:20:48.843][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:simple_mobs.lycanthrope_elixir' that outputs: '<item:bloodandmadness:beastblood_clump>'
-[14:20:48.843][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:dannys_expansion.strange_alloy' that outputs: '<item:magistuarmory:steel_ingot> * 4'
-[14:20:48.844][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:dannys_expansion.gel' that outputs: '<item:minecraft:slime_ball>'
-[14:20:48.845][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:hexerei.fat' that outputs: '<item:untamedwilds:material_fat>'
-[14:20:48.845][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:untamedwilds.fat' that outputs: '<item:hexerei:animal_fat>'
-[14:20:48.847][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[sophisticatedbackpacks:magnet_upgrade]'
-[14:20:48.847][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[sophisticatedbackpacks:advanced_magnet_upgrade]'
-[14:20:48.847][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[meetyourfight:fossil_bait]'
-[14:20:48.847][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[meetyourfight:haunted_bell]'
-[14:20:48.847][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[meetyourfight:depth_star]'
-[14:20:48.847][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[meetyourfight:devils_ante]'
-[14:20:48.847][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[darkersouls:great_belfry]'
-[14:20:48.847][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[endrem:exotic_eye]'
-[14:20:48.847][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[apotheosis:scrap_tome]'
-[14:20:48.847][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[apotheosis:prismatic_web]'
-[14:20:48.848][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:apotheosis.prismatic_web' that outputs: '<item:apotheosis:prismatic_web>'
-[14:20:48.849][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:dannys_expansion.shroom' that outputs: '<item:create:tree_fertilizer>'
-[14:20:48.851][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:bloodandmadness.church_scythe' that outputs: '<item:bloodandmadness:weapons/church_scythe>'
-[14:20:48.851][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:bloodandmadness.flamesprayer' that outputs: '<item:bloodandmadness:weapons/flamesprayer>'
-[14:20:48.852][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:bloodandmadness.burial_blade' that outputs: '<item:bloodandmadness:weapons/burial_blade>'
-[14:20:48.853][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:dannys_expansion.sporebomb' that outputs: '<item:savage_and_ravage:spore_bomb>'
-[14:20:48.853][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:magistuarmory.flint_and_steel' that outputs: '<item:minecraft:flint_and_steel>'
-[14:20:48.854][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:dannys_expansion.foam_sporebomb' that outputs: '<item:savage_and_ravage:spore_bomb>'
-[14:20:48.854][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[savage_and_ravage:griefer_helmet]'
-[14:20:48.855][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:simple_mobs.griefer_helmet' that outputs: '<item:simple_mobs:griefer_helmet>'
-[14:20:48.855][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[savage_and_ravage:griefer_chestplate]'
-[14:20:48.855][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:simple_mobs.griefer_chestplate' that outputs: '<item:simple_mobs:griefer_chestplate>'
-[14:20:48.855][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[savage_and_ravage:griefer_leggings]'
-[14:20:48.856][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:simple_mobs.griefer_leggings' that outputs: '<item:simple_mobs:griefer_leggings>'
-[14:20:48.856][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[savage_and_ravage:griefer_boots]'
-[14:20:48.856][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:simple_mobs.griefer_boots' that outputs: '<item:simple_mobs:griefer_boots>'
-[14:20:48.858][INFO]: Removing all recipes that output <item:plushies:panda>
-[14:20:48.869][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.869][INFO]: Removing all recipes that output <item:plushies:axolotl>
-[14:20:48.875][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.875][INFO]: Removing all recipes that output <item:plushies:bee>
-[14:20:48.879][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.880][INFO]: Removing all recipes that output <item:plushies:cat>
-[14:20:48.883][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.883][INFO]: Removing all recipes that output <item:plushies:cow>
-[14:20:48.886][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.886][INFO]: Removing all recipes that output <item:plushies:dolphin>
-[14:20:48.889][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.889][INFO]: Removing all recipes that output <item:plushies:dragon>
-[14:20:48.891][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.891][INFO]: Removing all recipes that output <item:plushies:enderman>
-[14:20:48.892][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.892][INFO]: Removing all recipes that output <item:plushies:frog>
-[14:20:48.893][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.893][INFO]: Removing all recipes that output <item:plushies:goat>
-[14:20:48.894][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.894][INFO]: Removing all recipes that output <item:plushies:llama>
-[14:20:48.895][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.895][INFO]: Removing all recipes that output <item:plushies:slime>
-[14:20:48.897][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.897][INFO]: Removing all recipes that output <item:plushies:magma_cube>
-[14:20:48.898][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.898][INFO]: Removing all recipes that output <item:plushies:mooshroom>
-[14:20:48.900][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.900][INFO]: Removing all recipes that output <item:plushies:parrot>
-[14:20:48.903][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.903][INFO]: Removing all recipes that output <item:plushies:red_fox>
-[14:20:48.905][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.905][INFO]: Removing all recipes that output <item:plushies:white_fox>
-[14:20:48.907][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.907][INFO]: Removing all recipes that output <item:plushies:warden>
-[14:20:48.909][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.909][INFO]: Removing all recipes that output <item:plushies:sheep>
-[14:20:48.910][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.911][INFO]: Removing all recipes that output <item:plushies:turtle>
-[14:20:48.912][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.912][INFO]: Removing all recipes that output <item:plushies:snow_golem>
-[14:20:48.915][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
-[14:20:48.916][INFO]: Registering summoning ca.teamdman.zensummoning.common.summoning.SummoningInfo@2a98a81f
-[14:20:48.917][INFO]: Registering summoning ca.teamdman.zensummoning.common.summoning.SummoningInfo@3312f5de
-[14:20:48.917][INFO]: Registering summoning ca.teamdman.zensummoning.common.summoning.SummoningInfo@5c257bf3
-[14:20:48.917][INFO]: Registering summoning ca.teamdman.zensummoning.common.summoning.SummoningInfo@4579132b
-[14:20:48.917][INFO]: Execution for loader 'crafttweaker' completed successfully
-[14:20:48.919][INFO]: This reload was made possible by NerdyWhiteGuy and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[08:24:30.003][INFO]: [JeiTweaker] REI identified
+[08:24:30.005][INFO]: Successfully identified and loaded plugin jeitweaker:default
+[08:24:30.037][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[08:24:30.039][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[08:24:31.423][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[08:24:31.426][INFO]: - 'armoreablemobs' at version '1.0.5'
+[08:24:31.426][INFO]: - 'crafttweaker' at version '9.1.207'
+[08:24:31.426][INFO]: - 'farmersdelight' at version '1.18.2-1.2.3'
+[08:24:31.426][INFO]: - 'gamestages' at version '8.1.3'
+[08:24:31.426][INFO]: - 'jeitweaker' at version '3.0.0.9'
+[08:24:31.426][INFO]: - 'recipestages' at version '3.0.0.10'
+[08:24:31.426][INFO]: - 'zensummoning' at version '1.3.8'
+[08:24:45.360][INFO]: Started loading scripts for loader 'initialize'
+[08:24:45.996][INFO]: Compiling and executing scripts
+[08:24:46.130][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[08:24:46.248][INFO]: Execution for loader 'initialize' completed successfully
+[08:24:56.910][INFO]: Started loading scripts for loader 'tags'
+[08:24:56.931][INFO]: Compiling and executing scripts
+[08:24:56.948][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[08:24:56.957][INFO]: Execution for loader 'tags' completed successfully
+[08:25:03.624][INFO]: Started loading scripts for loader 'crafttweaker'
+[08:25:03.666][INFO]: Compiling and executing scripts
+[08:25:04.089][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[08:25:04.098][INFO]: Loading file 'main.zs' with priority 0
+[08:25:04.168][INFO]: Registered new ArmorGroup for entity: simple_mobs:knight under the name: MaceArmorGroup
+[08:25:04.168][INFO]: Registered new ArmorGroup for entity: simple_mobs:knight_2 under the name: SwordArmorGroup
+[08:25:04.168][INFO]: Registered new ArmorGroup for entity: simple_mobs:knight_3 under the name: SpearArmorGroup
+[08:25:04.168][INFO]: Registered new ArmorGroup for entity: simple_mobs:samurai_1 under the name: Samurai1ArmorGroup
+[08:25:04.168][INFO]: Registered new ArmorGroup for entity: simple_mobs:samurai_2 under the name: Samurai2ArmorGroup
+[08:25:04.168][INFO]: Registered new ArmorGroup for entity: simple_mobs:ninja under the name: NinjaArmorGroup
+[08:25:04.168][INFO]: Registered new ArmorGroup for entity: simple_mobs:samurai_4 under the name: Samurai4ArmorGroup
+[08:25:04.168][INFO]: Registered new ArmorGroup for entity: difficultraids:assassin_illager under the name: AssassinGroup
+[08:25:04.168][INFO]: Registered new ArmorGroup for entity: difficultraids:dart_illager under the name: DartGroup
+[08:25:04.168][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_1 under the name: BarbarianGroup1
+[08:25:04.168][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_2 under the name: BarbarianGroup2
+[08:25:04.168][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_3 under the name: BarbarianGroup3
+[08:25:04.168][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_4 under the name: BarbarianGroup4
+[08:25:04.168][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_1 under the name: BarbarianGroup5
+[08:25:04.168][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_2 under the name: BarbarianGroup6
+[08:25:04.168][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_3 under the name: BarbarianGroup7
+[08:25:04.169][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_4 under the name: BarbarianGroup8
+[08:25:04.169][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_1 under the name: BarbarianGroup9
+[08:25:04.169][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_2 under the name: BarbarianGroup10
+[08:25:04.169][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_3 under the name: BarbarianGroup11
+[08:25:04.169][INFO]: Registered new ArmorGroup for entity: simple_mobs:barbarian_4 under the name: BarbarianGroup12
+[08:25:04.176][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.armorer_scroll' that outputs: '<item:quest_giver:trading_contract_armorer>'
+[08:25:04.177][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.beekeeper_scroll' that outputs: '<item:quest_giver:trading_contract_beekeeper>'
+[08:25:04.177][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.butcher_scroll' that outputs: '<item:quest_giver:trading_contract_butcher>'
+[08:25:04.177][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.cartographer_scroll' that outputs: '<item:quest_giver:trading_contract_cartographer>'
+[08:25:04.178][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.cleric_scroll' that outputs: '<item:quest_giver:trading_contract_cleric>'
+[08:25:04.178][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.enderian_scroll' that outputs: '<item:quest_giver:trading_contract_enderian>'
+[08:25:04.178][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.engineer_scroll' that outputs: '<item:quest_giver:trading_contract_engineer>'
+[08:25:04.178][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.farmer_scroll' that outputs: '<item:quest_giver:trading_contract_farmer>'
+[08:25:04.179][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.fisherman_scroll' that outputs: '<item:quest_giver:trading_contract_fisherman>'
+[08:25:04.179][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.fletcher_scroll' that outputs: '<item:quest_giver:trading_contract_fletcher>'
+[08:25:04.179][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.florist_scroll' that outputs: '<item:quest_giver:trading_contract_florist>'
+[08:25:04.179][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.hunter_scroll' that outputs: '<item:quest_giver:trading_contract_hunter>'
+[08:25:04.180][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.leatherworker_scroll' that outputs: '<item:quest_giver:trading_contract_leatherworker>'
+[08:25:04.180][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.librarian_scroll' that outputs: '<item:quest_giver:trading_contract_librarian>'
+[08:25:04.180][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.mason_scroll' that outputs: '<item:quest_giver:trading_contract_mason>'
+[08:25:04.181][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.miner_scroll' that outputs: '<item:quest_giver:trading_contract_miner>'
+[08:25:04.181][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.netherian_scroll' that outputs: '<item:quest_giver:trading_contract_netherian>'
+[08:25:04.181][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.oceanographer_scroll' that outputs: '<item:quest_giver:trading_contract_oceanographer>'
+[08:25:04.182][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.shepherd_scroll' that outputs: '<item:quest_giver:trading_contract_shepherd>'
+[08:25:04.182][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.toolsmith_scroll' that outputs: '<item:quest_giver:trading_contract_toolsmith>'
+[08:25:04.182][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.weaponsmith_scroll' that outputs: '<item:quest_giver:trading_contract_weaponsmith>'
+[08:25:04.183][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'recipestages:quest_giver.woodworker_scroll' that outputs: '<item:quest_giver:trading_contract_woodworker>'
+[08:25:04.185][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@7b8308e" to "StoneCutter"
+[08:25:04.190][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@3682a97f" to "AdvancedSmelting"
+[08:25:04.195][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@d296a3a" to "AdvancedSmelting"
+[08:25:04.198][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@99b6da93" to "AdvancedSmelting"
+[08:25:04.203][INFO]: Setting the stage of  "minecraft:crafting" recipes with output: com.blamejared.crafttweaker.api.item.MCItemStack@e8a3518" to "AdvancedSmelting"
+[08:25:04.211][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:minecraft.strings' that outputs: '<item:minecraft:string> * 4'
+[08:25:04.212][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:dannys_expansion.strange_alloy_andesite' that outputs: '<item:create:andesite_alloy> * 4'
+[08:25:04.212][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:simple_mobs.lycanthrope_elixir' that outputs: '<item:bloodandmadness:beastblood_clump>'
+[08:25:04.213][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:dannys_expansion.strange_alloy' that outputs: '<item:magistuarmory:steel_ingot> * 4'
+[08:25:04.213][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:dannys_expansion.gel' that outputs: '<item:minecraft:slime_ball>'
+[08:25:04.213][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:hexerei.fat' that outputs: '<item:untamedwilds:material_fat>'
+[08:25:04.214][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:untamedwilds.fat' that outputs: '<item:hexerei:animal_fat>'
+[08:25:04.216][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[sophisticatedbackpacks:magnet_upgrade]'
+[08:25:04.217][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[sophisticatedbackpacks:advanced_magnet_upgrade]'
+[08:25:04.217][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[meetyourfight:fossil_bait]'
+[08:25:04.217][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[meetyourfight:haunted_bell]'
+[08:25:04.217][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[meetyourfight:depth_star]'
+[08:25:04.217][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[meetyourfight:devils_ante]'
+[08:25:04.217][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[darkersouls:great_belfry]'
+[08:25:04.217][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[endrem:exotic_eye]'
+[08:25:04.217][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[apotheosis:scrap_tome]'
+[08:25:04.217][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[apotheosis:prismatic_web]'
+[08:25:04.218][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:apotheosis.prismatic_web' that outputs: '<item:apotheosis:prismatic_web>'
+[08:25:04.219][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:dannys_expansion.shroom' that outputs: '<item:create:tree_fertilizer>'
+[08:25:04.222][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:bloodandmadness.church_scythe' that outputs: '<item:bloodandmadness:weapons/church_scythe>'
+[08:25:04.222][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:bloodandmadness.flamesprayer' that outputs: '<item:bloodandmadness:weapons/flamesprayer>'
+[08:25:04.223][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:bloodandmadness.burial_blade' that outputs: '<item:bloodandmadness:weapons/burial_blade>'
+[08:25:04.223][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:dannys_expansion.sporebomb' that outputs: '<item:savage_and_ravage:spore_bomb>'
+[08:25:04.224][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:magistuarmory.flint_and_steel' that outputs: '<item:minecraft:flint_and_steel>'
+[08:25:04.225][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:dannys_expansion.foam_sporebomb' that outputs: '<item:savage_and_ravage:spore_bomb>'
+[08:25:04.225][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[savage_and_ravage:griefer_helmet]'
+[08:25:04.225][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:simple_mobs.griefer_helmet' that outputs: '<item:simple_mobs:griefer_helmet>'
+[08:25:04.225][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[savage_and_ravage:griefer_chestplate]'
+[08:25:04.226][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:simple_mobs.griefer_chestplate' that outputs: '<item:simple_mobs:griefer_chestplate>'
+[08:25:04.226][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[savage_and_ravage:griefer_leggings]'
+[08:25:04.227][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:simple_mobs.griefer_leggings' that outputs: '<item:simple_mobs:griefer_leggings>'
+[08:25:04.227][INFO]: Removing 'minecraft:crafting' recipe(s) with name(s): '[savage_and_ravage:griefer_boots]'
+[08:25:04.227][INFO]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:simple_mobs.griefer_boots' that outputs: '<item:simple_mobs:griefer_boots>'
+[08:25:04.229][INFO]: Removing all recipes that output <item:plushies:panda>
+[08:25:04.240][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.240][INFO]: Removing all recipes that output <item:plushies:axolotl>
+[08:25:04.246][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.246][INFO]: Removing all recipes that output <item:plushies:bee>
+[08:25:04.253][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.253][INFO]: Removing all recipes that output <item:plushies:cat>
+[08:25:04.260][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.260][INFO]: Removing all recipes that output <item:plushies:cow>
+[08:25:04.266][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.267][INFO]: Removing all recipes that output <item:plushies:dolphin>
+[08:25:04.274][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.274][INFO]: Removing all recipes that output <item:plushies:dragon>
+[08:25:04.282][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.283][INFO]: Removing all recipes that output <item:plushies:enderman>
+[08:25:04.292][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.292][INFO]: Removing all recipes that output <item:plushies:frog>
+[08:25:04.300][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.300][INFO]: Removing all recipes that output <item:plushies:goat>
+[08:25:04.309][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.309][INFO]: Removing all recipes that output <item:plushies:llama>
+[08:25:04.315][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.315][INFO]: Removing all recipes that output <item:plushies:slime>
+[08:25:04.323][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.323][INFO]: Removing all recipes that output <item:plushies:magma_cube>
+[08:25:04.330][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.330][INFO]: Removing all recipes that output <item:plushies:mooshroom>
+[08:25:04.336][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.336][INFO]: Removing all recipes that output <item:plushies:parrot>
+[08:25:04.343][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.344][INFO]: Removing all recipes that output <item:plushies:red_fox>
+[08:25:04.349][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.349][INFO]: Removing all recipes that output <item:plushies:white_fox>
+[08:25:04.354][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.354][INFO]: Removing all recipes that output <item:plushies:warden>
+[08:25:04.360][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.360][INFO]: Removing all recipes that output <item:plushies:sheep>
+[08:25:04.364][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.364][INFO]: Removing all recipes that output <item:plushies:turtle>
+[08:25:04.369][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.369][INFO]: Removing all recipes that output <item:plushies:snow_golem>
+[08:25:04.373][INFO]: Removed 1 recipes registered in these 1 recipe managers: [<recipetype:minecraft:crafting>: 1]
+[08:25:04.375][INFO]: Registering summoning ca.teamdman.zensummoning.common.summoning.SummoningInfo@63744bfc
+[08:25:04.375][INFO]: Registering summoning ca.teamdman.zensummoning.common.summoning.SummoningInfo@bdca509
+[08:25:04.376][INFO]: Registering summoning ca.teamdman.zensummoning.common.summoning.SummoningInfo@4a363425
+[08:25:04.376][INFO]: Registering summoning ca.teamdman.zensummoning.common.summoning.SummoningInfo@3a5fc969
+[08:25:04.376][INFO]: Execution for loader 'crafttweaker' completed successfully
+[08:25:04.378][INFO]: This reload was made possible by NerdyWhiteGuy and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
